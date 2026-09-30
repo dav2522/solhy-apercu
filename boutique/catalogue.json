@@ -1,0 +1,26 @@
+{
+ "cloche-led-250w": {
+  "nom": "Cloche LED industrielle 250 W — carton de 6",
+  "ref": "CLI250-FR02",
+  "cents": 29940,
+  "lot": 6
+ },
+ "reglette-led-250w": {
+  "nom": "Réglette LED industrielle 250 W — carton de 4",
+  "ref": "NES-LHB250W",
+  "cents": 31960,
+  "lot": 4
+ },
+ "hublot-led-18w": {
+  "nom": "Hublot LED intérieur 18 W",
+  "ref": "CL-300AD",
+  "cents": 2490,
+  "lot": 1
+ },
+ "projecteur-solaire-50w": {
+  "nom": "Projecteur mural solaire LED 600 lm",
+  "ref": "PMS50W",
+  "cents": 1990,
+  "lot": 1
+ }
+}
